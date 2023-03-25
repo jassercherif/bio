@@ -12,7 +12,7 @@
 </div>
   <div id="header" align="center">
 <div id="badges">
-   <img src="https://komarev.com/ghpvc/?username=yogeshkasar778&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=jasser-cherif&style=flat-square&color=blue" alt=""/>
   </a>
   <h1>
  Hi there!
@@ -29,7 +29,7 @@
    
 👨‍💻 **About** **Me**:
 
-I am a **Data** **Science**/**Machine** **Learning** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with B.E.(IT Engg.) from Kelibia.   
+I am a **Data** **Science**/**Machine** **Learning** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with B.E.(IT Engg.) from Tunisia.   
 - 🌱 I’m currently learning ** Machine/Deep Learning**
 - 👯 I’m looking to collaborate on AI/ML Projects
 - 💬 You can reach me on: jassercherif88@gmail.com
@@ -53,7 +53,7 @@ I am a **Data** **Science**/**Machine** **Learning** **Enthusiast** <img src="ht
    ---
 
 ### :fire: My Stats :
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yogeshkasar778&theme=dark&border_radius=4.3)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasser-cherif&theme=dark&border_radius=4.3)](https://git.io/streak-stats)
    
-   ![jasser cherif GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshkasar778&theme=dark&show_icons=true)
+   ![jasser cherif GitHub stats](https://github-readme-stats.vercel.app/api?username=jasser-cherif&theme=dark&show_icons=true)
    ---
